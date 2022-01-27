@@ -3,8 +3,6 @@
 
 - 👯 I’m looking to collaborate on **ReactJs, Node, Express, C# or any other latesh tech stacks**
 
-- 👨‍💻 Portfolio [www.arshekas.com](www.arshekas.com)
-
 - 📫 How to reach me **singh366arsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
