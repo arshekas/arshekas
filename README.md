@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshpreet</h1>
-<h3 align="center">Passionate and dedicated IT professional with 2+ years of experience in creating elegant and innovative full stack software solutions with organized workflow using different tech stacks.</h3>
+<h3 align="center">Passionated and dedicated IT professional with 2+ years of experience in creating elegant and innovative full stack software solutions with organized workflow using different tech stacks.</h3>
 
 - 👯 I’m looking to collaborate on **ReactJs, Node, Express, C# or any other latesh tech stacks**
 
