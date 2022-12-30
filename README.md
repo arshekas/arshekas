@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Arshpreet Singh</h1>
- 💫 About Me:
-Passionated and dedicated IT professional with 2+ years of experience in creating elegant and innovative full stack software solutions with organized workflow using different tech stacks.
+ 💫 Passionated and dedicated IT professional with 2+ years of experience in creating elegant and innovative full stack software solutions with organized workflow using different tech stacks.
 
 
 ## 🌐 Socials:
